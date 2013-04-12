@@ -68,6 +68,4 @@ print $token->perl;
 
 __END__
 
-=begin
-=for :stopwords gh
-=end
+=for :stopwords gh GitHub
